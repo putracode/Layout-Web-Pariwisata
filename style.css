@@ -1,0 +1,66 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    /* border: 1px solid; */
+}
+
+.navbar a{
+    font-size: 13px;
+}
+
+#hero{
+    background-image: url(img/hero.jpg);
+    height: 615px;
+    background-size: cover;
+    background-position: bottom;
+}
+
+#hero h1{
+    font-size: 56px;
+}
+
+#hero span{
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 0.7px #ffffff;
+}
+
+#adventure{
+    margin-top: 100px;
+}
+
+#destination{
+    margin-top: 150px;
+}
+
+#destination img{
+    object-fit: cover;
+    width: 263px;
+    height: 360px;
+}
+
+#travel{
+    margin-top: 150px;
+}
+
+#what{
+    margin-top: 150px;
+}
+
+#what .what1{
+    background-color: #c4c4c4;
+}
+
+#guide{
+    margin-top: 150px;
+}
+
+#guide button{
+    width: 150px;
+    height: 35px;
+    border-radius: 12px;
+}
+
+#footer,.footbau{
+    margin-top: 50px;
+    background-color: #1b1b1b;
+    height: 550px;
+}
